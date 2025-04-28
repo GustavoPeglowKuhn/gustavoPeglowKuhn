@@ -1,7 +1,10 @@
-# Gustavo Peglow Kuhn
-## Hello, Devs!!
+# Hi, I'm Gustavo Peglow Kuhn
+## Electrical engineer and programmer
 
 ![](https://komarev.com/ghpvc/?username=gustavoPeglowKuhn&color=brightgreen&style=plastic&abbreviated=true)
+
+- 💬 Ask me about microcontrollers, C/C++, 3D printing
+- 📫 How to reach me: gustavo.peglowkuhn@hotmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
